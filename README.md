@@ -13,4 +13,6 @@ Este projeto simula o banco de dados de uma clínica de nutrição, com foco em 
 ├── agregacoes.sql -- Consultas com funções de agregação  
 └── README.md -- Documentação do projeto  
 
-<img width="2455" height="2462" alt="MER" src="https://github.com/user-attachments/assets/f05e2563-9580-4eae-aad9-d2a26602d67b" />
+
+
+![MER (1)](https://github.com/user-attachments/assets/4d1f688e-fcba-4558-a9f7-74ae4ed6a70e)
